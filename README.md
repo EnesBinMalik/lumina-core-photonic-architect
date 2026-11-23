@@ -17,6 +17,8 @@
 [![Durum](https://img.shields.io/badge/Durum-Tamamland%C4%B1-2EA043?style=for-the-badge)](https://github.com/EnesBinMalik/lumina-core-photonic-architect)
 [![Lisans](https://img.shields.io/badge/Lisans-Apache--2.0-6E7681?style=for-the-badge)](https://www.apache.org/licenses/LICENSE-2.0)
 
+<img src="docs/rozet-enes-ozturk.png" alt="Enes Öztürk imzalı tasarım rozeti" width="420">
+
 </div>
 
 ---
