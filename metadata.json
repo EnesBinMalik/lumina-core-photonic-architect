@@ -1,0 +1,6 @@
+{
+  "name": "LUMINA CORE: THE PHOTONIC ARCHITECT",
+  "description": "Enes Öztürk imzalı 3D yüksek tempolu fotonik aksiyon, gerçek zamanlı spektral ışık kırılması ve el işçiliği optik mimari deneyimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

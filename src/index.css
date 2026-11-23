@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@layer base {
+  html,
+  body,
+  #root {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #06080c;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  }
+
+  .font-display {
+    font-family: "Cormorant Garamond", Georgia, serif;
+  }
+
+  .font-mono-tabular {
+    font-family: "JetBrains Mono", monospace;
+    font-variant-numeric: tabular-nums;
+  }
+}
